@@ -4,7 +4,7 @@
 //and there are 668 sols (687 Earth days) in a Martian year.
 
 // const API_KEY="DEMO_KEY"  //key for the demo API
-const API_KEY="M32pJ3klXcICg727y5C6ynm0wT5bhSSsFxPdauA7"
+const API_KEY="qqqpFDkWMwlKaYxqSlop1tcJeTigo0QDC88Bn5L1"
 const API_URL=`https://api.nasa.gov/insight_weather/?api_key=${API_KEY}&feedtype=json&ver=1.0`
 // console.log(API_URL);
 
